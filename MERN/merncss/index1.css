@@ -1,0 +1,66 @@
+#blk1
+{
+    width:300px;
+    height:15cm;
+    background-color:yellow;
+    float:left;
+    margin-left:9.1cm;
+   margin-top:1.5cm;
+   overflow:hidden;
+   border-radius:30px 0px 0px 30px;
+  border :3px solid black;
+  border-right:none;
+}
+
+
+
+#blk2
+{
+width:450px;
+height:15cm;
+background-color:aliceblue;
+border-style:solid;
+border-radius:0px 30px 30px 0px;
+
+float:left;
+margin-right:9.1cm;
+margin-top:1.5cm;
+}
+
+
+#blk2 h1{
+font-size:15px;
+text-align:center;
+background-color:darkblue;
+color:white;
+padding:5px 2cm;
+margin-top:1.5cm;
+margin-left:1.5cm;
+margin-right:1.5cm;
+}
+
+#blk2 h2
+{
+    text-align:center;
+    color:gray;
+}
+#blk2 a 
+{
+color:white;
+text-decoration:none;
+}
+
+p input{
+background-color:green;
+height:1cm;
+width:2.5cm;
+margin:3px 5cm;
+font-size:20px;
+padding:6px;
+}
+
+form{
+
+    text-align:center;
+}
+
